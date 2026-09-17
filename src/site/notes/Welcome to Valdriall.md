@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-valdriall/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/welcome-to-valdriall/","dg-note-properties":{}}
 ---
 
 Test text 
