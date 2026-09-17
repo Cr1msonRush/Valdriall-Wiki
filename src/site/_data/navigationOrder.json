@@ -1,0 +1,22 @@
+{
+  "/": [
+    "Welcome to Valdriall",
+    "Locations",
+    "NPC'S",
+    "Organisations",
+    "Quests",
+    "Valdriall"
+  ],
+  "/Locations": [
+    "test 1 1"
+  ],
+  "/NPC'S": [
+    "test 1"
+  ],
+  "/Organisations": [
+    "test 1 2"
+  ],
+  "/Quests": [
+    "test 1 2 1"
+  ]
+}
